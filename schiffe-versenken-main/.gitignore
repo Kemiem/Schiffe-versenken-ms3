@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Office-Dateien ignorieren
+*.doc
+*.docx
+*.odt
+*.xlsx
+*.pptx
+
+# Systemdateien
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# (Optional weitere Dateien)
+*.xlsx
+*.pptx

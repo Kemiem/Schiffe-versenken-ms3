@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "verbatimModuleSyntax": false,
+
+    "strict": true,
+    "skipLibCheck": true,
+
+    "sourceMap": true,
+    "declaration": false,
+    "jsx": "react-jsx",
+    "outDir": "dist",
+    "types": ["node"]
+  },
+  "include": ["./**/*.ts"]
+}
